@@ -1,4 +1,4 @@
-import LeftSidebar from "@/components/leftSidebar";
+import LeftSidebar from "@/components/LeftSidebar";
 import MobileNav from "@/components/MobileNav";
 import RightSidebar from "@/components/RightSidebar";
 import Image from "next/image";
