@@ -1,4 +1,4 @@
-## EchoBot
+<!-- ## EchoBot
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -21,4 +21,4 @@
 **Responsive Design**: This Project is Fully functional and visually appealing across all devices and screen sizes.
 
 
-
+ -->

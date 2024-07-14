@@ -4,6 +4,7 @@ import "./globals.css";
 import ConvexClerkProvider from "../providers/ConvexClerkProvider";
 import AudioProvider from "@/providers/AudioProvider";
 
+
 const manrope = Manrope({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
